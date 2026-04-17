@@ -31,4 +31,3 @@ Ce projet regroupe plusieurs études de cas réalisées dans le cadre de ma form
 
 Sagno Emmanuel
 
-![Exercice Pratique en Data Analyst](https://github.com/622305218/Formation-data-analyst/blob/eb5d0dcc7fc625a085fb830d5f76f7dc77b2ff60/Exercice_pratique.docx)
