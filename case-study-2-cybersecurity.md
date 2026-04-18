@@ -1,7 +1,7 @@
 
-# 🔐 Case Study 2 : Cybersécurité - Société Générale
+# Case Study 2 : Cybersécurité - Société Générale
 
-## 📊 Audit
+## Audit
 
 | Critère | Oui/Non | Note | Action |
 |--------|--------|------|--------|
@@ -16,11 +16,11 @@
 | Plan crise | Non | 2/10 | Créer |
 | Assurance cyber | Non | 0/10 | Souscrire |
 
-## 📉 Score
+## Score
 
-**25/100 → 🔴 DANGER**
+**25/100 DANGER**
 
-## 🚨 Plan d’action
+## Plan d’action
 
 ### 1. Activer 2FA
 - Budget : 50–100M GNF
@@ -34,6 +34,6 @@
 - Budget : 500–800M GNF
 - Délai : 3 mois
 
-## 🎯 Conclusion
+## Conclusion
 
 Entreprise très vulnérable nécessitant actions urgentes.
