@@ -1,6 +1,6 @@
-# 🤖 Case Study 5 : IA Anti-Fraude - EDG
+# Case Study 5 : IA Anti-Fraude - EDG
 
-## 📊 Fraudes
+## Fraudes
 
 | Type | Fréquence | Perte/an | IA |
 |------|----------|----------|----|
@@ -10,7 +10,7 @@
 | Activité cachée | Moyen | 18 Mrd | Oui |
 | Fraude technique | Rare | 18 Mrd | Oui |
 
-## 🤖 Algorithme
+## Algorithme
 
 Fraude : Compteur trafiqué
 
@@ -29,7 +29,7 @@ Action :
 - Inspection
 - Marquage client
 
-## 💰 Budget
+## Budget
 
 | Poste | Coût |
 |------|------|
@@ -38,11 +38,11 @@ Action :
 | Formation | 100M |
 | TOTAL | 800M |
 
-## 📈 ROI
+## ROI
 
 - Gains : 12 Mrd/mois
 - ROI ≈ 1 mois
 
-## 🎯 Conclusion
+## Conclusion
 
 IA = solution ultra rentable et efficace.
