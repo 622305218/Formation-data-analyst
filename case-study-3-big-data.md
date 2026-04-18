@@ -1,7 +1,7 @@
 
-# 📊 Case Study 3 : Big Data - Jumia Guinée
+# Case Study 3 : Big Data - Jumia Guinée
 
-## 📊 Données collectées
+## Données collectées
 
 | # | Donnée | Collecte | Utilité |
 |--|--------|----------|--------|
@@ -16,13 +16,13 @@
 | 9 | Réponse promos | Coupons | Optimisation |
 | 10 | Période salaire | Historique | Campagnes |
 
-## 📈 Patterns
+## Patterns
 
 - Achat fin de mois → promos ciblées  
 - Produits complémentaires → recommandations  
 - Achat soir → envoi promos le soir  
 
-## 🛠️ Plan
+## Plan
 
 | Phase | Action | Outil | Coût | Délai |
 |------|--------|------|------|------|
@@ -31,12 +31,12 @@
 | 3 | Analyse | Python | Faible | 1 mois |
 | 4 | Marketing | Email/SMS | 50M | 1 mois |
 
-## ⚠️ Éthique
+## Éthique
 
 - Consentement
 - Protection données
 - Transparence
 
-## 🎯 Conclusion
+## Conclusion
 
 Le Big Data améliore ventes et fidélisation.
