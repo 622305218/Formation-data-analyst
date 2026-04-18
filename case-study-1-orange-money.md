@@ -1,7 +1,7 @@
 
-# 📱 Case Study 1 : Orange Money Guinée (2015)
+# Case Study 1 : Orange Money Guinée (2015)
 
-## 📊 Diagnostic
+## Diagnostic
 
 | Critère | Analyse | Note |
 |--------|--------|------|
@@ -12,17 +12,17 @@
 | Coût lancement | 20 à 30 milliards GNF | 6/10 |
 | ROI attendu | 2 à 3 ans | 8/10 |
 
-## ✅ Décision
+## Décision
 
 **LANCER**
 
-## 💡 Justification
+##  Justification
 
 - Marché très large
 - Faible concurrence
 - Adoption mobile facile
 
-## ⚠️ Défis et solutions
+##  Défis et solutions
 
 ### Défi 1 : Confiance
 Solution :
@@ -34,6 +34,6 @@ Solution :
 - Investir dans l’infrastructure
 - Déployer agents locaux
 
-## 🎯 Conclusion
+## Conclusion
 
 Projet stratégique avec fort potentiel de croissance.
