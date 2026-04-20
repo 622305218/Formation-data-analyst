@@ -29,5 +29,9 @@ Ce projet regroupe plusieurs études de cas réalisées dans le cadre de ma form
 
 ##  Auteur
 
-Sagno Emmanuel
+Nom : Sagno Emmanuel
+Téléphone : +224 622 30 52 18
+Email : emmanuelsagno01@gmail.com
+Statut : Étudiant en Data Analyst
+Centre de formation : LIEWO HUB
 
